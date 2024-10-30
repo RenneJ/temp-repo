@@ -4,3 +4,4 @@ eggs
 chocolate
 beans
 rice
+milk
