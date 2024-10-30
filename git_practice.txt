@@ -1,1 +1,2 @@
 text in file
+text added in code editor on cloned project
